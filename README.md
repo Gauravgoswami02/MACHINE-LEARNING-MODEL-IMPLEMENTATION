@@ -34,10 +34,12 @@ Finally, the complete implementation is written in a Jupyter Notebook with clear
 
 This project not only demonstrates the use of Scikit-learn in building a predictive model but also teaches important aspects of working with text data, model evaluation, and performance visualization. It serves as a foundational project for students and developers interested in machine learning, natural language processing, and Python programming.
 
+In summary, the project is a practical demonstration of spam detection using a real-world dataset, machine learning techniques, and Python libraries. It bridges theoretical knowledge with hands-on implementation and provides a solid introduction to classification tasks in NLP.
+
+
 # OUTPUT
 <img width="791" height="769" alt="Image" src="https://github.com/user-attachments/assets/39745f4c-5e42-41c7-8a54-52db1806beef" />
 
-# OUTPUT
 
 
-In summary, the project is a practical demonstration of spam detection using a real-world dataset, machine learning techniques, and Python libraries. It bridges theoretical knowledge with hands-on implementation and provides a solid introduction to classification tasks in NLP.
+
